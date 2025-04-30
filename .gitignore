@@ -1,0 +1,7 @@
+__pycache__/
+chromedriver-linux64/
+chromedriver-win64/
+.env
+chromedriver
+chromedriver.exe
+web_scraper
